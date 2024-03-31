@@ -1,13 +1,12 @@
 package br.edu.principal;
+
 import java.util.Scanner;
 
-public class Principal {
-	
-	 static  void calc(int n, int n2) {
+public class principal {
+	static  void calc(int n, int n2) {
 		 
 	 }
-	
-	
+
 	public static void main(String[] args) {
 		Scanner num1 = new Scanner(System.in);
 		int n;
@@ -25,8 +24,6 @@ public class Principal {
 			System.out.println(n - n2);
 			System.out.println(n / n2);
 			System.out.println(n * n2);
-	
 	}
-			
-	
+
 }
