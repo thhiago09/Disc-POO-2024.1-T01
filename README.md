@@ -2,7 +2,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
-- [Lista 01](https://github.com/JaoTitow/DISC-POO-2024.1-T01/tree/main/CAP-03)):TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
+- [Lista 01](https://github.com/JaoTitow/DISC-POO-2024.1-T01/tree/main/CAP-03):TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
 
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
