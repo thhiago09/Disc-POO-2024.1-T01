@@ -2,10 +2,9 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	public static void main(String[] args) {
-		
 		double gratificacao = 1.05;
 		double imposto = 1.07;
 		
@@ -18,8 +17,6 @@ public class Principal {
 		
 		double rSalario = salarioAumentado - (salario * 0.07);
 		System.out.printf("o seu salario apos todas as alterações será: %.2f %n", rSalario);
-		
-
 	}
 
 }
