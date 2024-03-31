@@ -7,7 +7,7 @@
 
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
-- João Gabriel Tito
+- [João Gabriel Tito](https://github.com/JaoTitow)
 - [Francisco Thiago](https://github.com/thhiago09)
 - [Levi Faleh](https://github.com/LeviFaleh)
 - [João Pedro Silva](https://github.com/joaopedrosilva23)
