@@ -2,10 +2,9 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	public static void main(String[] args) {
-		
 		double gratificacao = 50;
 		double imposto = 0.10;
 		
@@ -18,7 +17,6 @@ public class Principal {
 		
 		double rSalario = salarioAumentado - (salario * imposto);
 		System.out.printf("O seu salario pendente é de: %.2f %n", rSalario);
-		
 
 	}
 
