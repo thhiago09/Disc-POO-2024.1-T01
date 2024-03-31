@@ -2,10 +2,9 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	public static void main(String[] args) {
-		
 		//Pesos
 		int peso1 = 3;
 		int peso2 = 3;
@@ -29,6 +28,7 @@ public class Principal {
 		
 		double media = ((n1 * peso1 + n2 * peso2 + n3 * peso3)/(peso1 + peso2 + peso3));
 		System.out.printf("Sua média é = %.2f %n",  media);
+
 
 	}
 
