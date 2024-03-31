@@ -2,7 +2,7 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -23,9 +23,7 @@ public class Principal {
 		
 		System.out.println("O lucro do vendedor foi: " + lucro);
 		System.out.println("O valor de impostos foi: " + impostos);
-		System.out.println("O valor total do veículo foi: " + valorFin);
-		
-		input.close();
+		System.out.println("O valor total do veículo foi: " + valorFin);
 
 	}
 
