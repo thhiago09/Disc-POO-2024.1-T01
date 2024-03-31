@@ -1,12 +1,12 @@
 package br.edu.principal;
-import java.util.*;
 
-public class Principal {
+import java.util.Scanner;
+
+public class principal {
 	static  void calc(double n, double n2, double n3) {
 		 
 	 }
-	
-	
+
 	public static void main(String[] args) {
 		Scanner num1 = new Scanner(System.in);
 		double n = 0;
@@ -27,9 +27,6 @@ public class Principal {
 		System.out.printf("Sua média é = %.2f %n",  media);
 		
 			calc(n, n2, n3);
-			
-	
 	}
-			
-	
+
 }
