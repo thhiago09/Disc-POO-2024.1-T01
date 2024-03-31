@@ -20,7 +20,7 @@ b) o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
 16.Faça um programa que receba o valor dos catetos de um triângulo, calcule e mostre o valor da hipo-
 tenusa.
 
-18. Faça um programa que receba uma temperatura em Celsius, calcule e mostre essa temperatura em
+18.Faça um programa que receba uma temperatura em Celsius, calcule e mostre essa temperatura em
 Fahrenheit. Sabe-se que F = 180*(C + 32)/100.
 
 20.Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e a dis-
