@@ -2,11 +2,10 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	public static void main(String[] args) {
-		
-		
+
 		Scanner num1 = new Scanner(System.in);
 		double salario = 0;
 		System.out.printf("Informe seu salário: \n");
@@ -15,7 +14,7 @@ public class Principal {
 		double ns = salario * 1.25;
 		
 		System.out.printf("O seu salário após o aumento será de: %.2f %n ", ns);
-		
+
 	}
 
 }
